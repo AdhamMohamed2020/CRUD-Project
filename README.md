@@ -2,7 +2,7 @@
 # CRUD Project
 
 ## Description
-**CRUD Project** is a simple application designed to manage employee and department information, enabling efficient creation, modification, deletion, and retrieval of employee records. With secure login and user management handled by Identity, the system offers a streamlined approach to organizing employee data and linking them to their respective departments.
+**CRUD Project** is a simple MVC application designed to manage employee and department information, enabling efficient creation, modification, deletion, and retrieval of employee records. With secure login and user management handled by Identity, the system offers a streamlined approach to organizing employee data and linking them to their respective departments.
 
 ## Prerequisites
 - **.NET SDK 8.0.**
